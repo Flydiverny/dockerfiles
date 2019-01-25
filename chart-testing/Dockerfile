@@ -1,5 +1,5 @@
-FROM quay.io/helmpack/chart-testing:latest
-LABEL maintainer="Markus Maga <markus@nadilus.com>"
+FROM quay.io/helmpack/chart-testing:v2.2.0
+LABEL maintainer="Markus Maga <markus@maga.se>"
 
 WORKDIR /app
 
