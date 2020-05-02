@@ -1,4 +1,4 @@
-FROM quay.io/helmpack/chart-testing:v2.4.0
+FROM quay.io/helmpack/chart-testing:v2.4.1
 LABEL maintainer="Markus Maga <markus@maga.se>"
 
 WORKDIR /app
